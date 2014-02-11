@@ -8,9 +8,9 @@
         "url": "git://github.com/saltpy/easylint.git"
     },
     "dependencies": {
+        "jshint": "2.1.x"
     },
     "devDependencies": {
-        "jshint": "2.1.x"
     },
     "engines": {
         "node": "0.10.x"
